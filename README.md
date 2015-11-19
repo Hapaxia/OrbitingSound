@@ -14,11 +14,11 @@ If the `#define SHOW_INTERACTIVE_VISUALISATION` line is commented out, Orbiting 
 If the `#define SHOW_INTERACTIVE_VISUALISATION` line is _not_ commented out, Orbiting Sound will include a graphical window that shows a simple visual representation of the position of the listener and the sound.
 
 The Interactive Visualisation also responds to a couple of controls:
-- [SPACE]  
+- \[SPACE\]  
 Changes direction of the orbit
-- [+] (number pad)  
+- \[+\] (number pad)  
 Increases speed of the orbit
-- [-] (number pad)  
+- \[-\] (number pad)  
 Decreases speed of the orbit
 
 ## Note
